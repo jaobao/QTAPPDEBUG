@@ -1,0 +1,62 @@
+************************************* Invoked: Thu Jul 26 10:08:51 2018
+[0] Arguments:  \\PCHBMADDURM02\Users\maddurm\Desktop\SampleApplication\SampleApplicationInstaller.exe
+[13] Operations sanity check succeeded.
+[3301] created warning message box OverwriteTargetDirectory: 'Warning', You have selected an existing, non-empty folder for installation.
+Note that it will be completely wiped on uninstallation of this application.
+It is not advisable to install into this folder as installation might fail.
+Do you want to continue?
+[16793] Tmp and install folder are on the same volume. Volume mount point: "C:\" Free space available: "4.78 GiB"
+[16793] Installation space required: "95.38 MiB" Temporary space required: "0.00 bytes" Local repository size: "0.00 bytes"
+[16838] backup  operation: Mkdir
+[16838] 	- arguments: C:/Users/santoss/SampleApplication
+[16839] Done
+[16839] perform  operation: Mkdir
+[16839] 	- arguments: C:/Users/santoss/SampleApplication
+[16839] Done
+[16840] Install size: 1 components
+[16869] backup org.qtproject.ifw.example operation: Extract
+[16869] 	- arguments: installer://org.qtproject.ifw.example/1.0.0-1content.7z, C:\Users\santoss\SampleApplication
+[16869] Done
+[16871] perform org.qtproject.ifw.example operation: Extract
+[16871] 	- arguments: installer://org.qtproject.ifw.example/1.0.0-1content.7z, C:\Users\santoss\SampleApplication
+[57773] Done
+[57773] backup org.qtproject.ifw.example operation: Extract
+[57773] 	- arguments: installer://org.qtproject.ifw.example/1.0.0-1iconengines.7z, C:\Users\santoss\SampleApplication
+[57773] Done
+[57773] perform org.qtproject.ifw.example operation: Extract
+[57773] 	- arguments: installer://org.qtproject.ifw.example/1.0.0-1iconengines.7z, C:\Users\santoss\SampleApplication
+[57788] Done
+[57788] backup org.qtproject.ifw.example operation: Extract
+[57788] 	- arguments: installer://org.qtproject.ifw.example/1.0.0-1imageformats.7z, C:\Users\santoss\SampleApplication
+[57788] Done
+[57788] perform org.qtproject.ifw.example operation: Extract
+[57788] 	- arguments: installer://org.qtproject.ifw.example/1.0.0-1imageformats.7z, C:\Users\santoss\SampleApplication
+[57927] Done
+[57927] backup org.qtproject.ifw.example operation: Extract
+[57927] 	- arguments: installer://org.qtproject.ifw.example/1.0.0-1platforms.7z, C:\Users\santoss\SampleApplication
+[57927] Done
+[57927] perform org.qtproject.ifw.example operation: Extract
+[57927] 	- arguments: installer://org.qtproject.ifw.example/1.0.0-1platforms.7z, C:\Users\santoss\SampleApplication
+[58087] Done
+[58087] backup org.qtproject.ifw.example operation: Extract
+[58087] 	- arguments: installer://org.qtproject.ifw.example/1.0.0-1styles.7z, C:\Users\santoss\SampleApplication
+[58087] Done
+[58087] perform org.qtproject.ifw.example operation: Extract
+[58087] 	- arguments: installer://org.qtproject.ifw.example/1.0.0-1styles.7z, C:\Users\santoss\SampleApplication
+[58106] Done
+[58106] backup org.qtproject.ifw.example operation: Extract
+[58106] 	- arguments: installer://org.qtproject.ifw.example/1.0.0-1translations.7z, C:\Users\santoss\SampleApplication
+[58106] Done
+[58106] perform org.qtproject.ifw.example operation: Extract
+[58106] 	- arguments: installer://org.qtproject.ifw.example/1.0.0-1translations.7z, C:\Users\santoss\SampleApplication
+[58333] Done
+[58333] backup org.qtproject.ifw.example operation: CreateShortcut
+[58333] 	- arguments: C:\Users\santoss\SampleApplication/SampleApplication.exe, C:\Users\santoss\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\SampleApplication/SampleApplication.lnk, workingDirectory=C:\Users\santoss\SampleApplication, iconPath=%SystemRoot%/system32/SHELL32.dll, iconId=2
+[58333] Done
+[58333] perform org.qtproject.ifw.example operation: CreateShortcut
+[58333] 	- arguments: C:\Users\santoss\SampleApplication/SampleApplication.exe, C:\Users\santoss\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\SampleApplication/SampleApplication.lnk, workingDirectory=C:\Users\santoss\SampleApplication, iconPath=%SystemRoot%/system32/SHELL32.dll, iconId=2
+[58967] Done
+[58980] Writing maintenance tool: "C:\Users\santoss\SampleApplication/maintenancetool.exe.new"
+[60759] Wrote permissions for maintenance tool.
+[63601] Maintenance tool restart: false.
+[63602] SHOW FINISHED PAGE

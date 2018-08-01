@@ -1,0 +1,15 @@
+<Packages>
+    <ApplicationName>Sample Application</ApplicationName>
+    <ApplicationVersion>1.0.0</ApplicationVersion>
+    <Package>
+        <Name>org.qtproject.ifw.example</Name>
+        <Pixmap></Pixmap>
+        <Title>SampleApplication</Title>
+        <Description>A SampleApplication, accessible through a start menu entry.</Description>
+        <Version>1.0.0-1</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2018-07-26</InstallDate>
+        <Size>90920587</Size>
+        <Dependencies></Dependencies>
+    </Package>
+</Packages>
